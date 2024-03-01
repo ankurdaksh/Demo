@@ -20,6 +20,7 @@ const Counter =()=>{
 
         <button onClick={handleIncrement}>Increment</button>
         
+
         <button onClick={handleDecrement}>Decrement</button>
         
         </>
