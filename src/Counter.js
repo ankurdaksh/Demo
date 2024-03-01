@@ -14,8 +14,12 @@ const Counter =()=>{
     }
     return(
         <>
+
+
         <h1>Counter:{count}</h1>
+
         <button onClick={handleIncrement}>Increment</button>
+        
         <button onClick={handleDecrement}>Decrement</button>
         
         </>
